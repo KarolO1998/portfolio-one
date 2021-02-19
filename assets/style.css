@@ -220,6 +220,7 @@ body {
   .black {
     background: #000000;
     text-align: center;
+    border-radius: 8px;
   }
   
   .contact {

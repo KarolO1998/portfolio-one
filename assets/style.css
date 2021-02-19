@@ -87,7 +87,8 @@ body {
     list-style: none;
   }
   
-  .social {
+  .social:hover {
+    background-color: white;
     font-size: 2em;
     color: white;
     padding: 20px;

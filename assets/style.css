@@ -55,10 +55,26 @@ body {
     margin-bottom: 0;
   }
   
-  .jumbotron-text p {
+  .big-text p {
     margin: 0;
   }
-  
+
+  .image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+
+  .profile-pic {
+    display: inline;
+    marging: 0 auto;
+    margin-left: -25%;
+    height: 100%;
+    width: auto;
+  }
+
   .ul-social {
     text-align: center;
     padding-left: 0;
